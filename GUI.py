@@ -129,3 +129,6 @@ class SatelliteSelector(tk.Tk):
 if __name__ == "__main__":
     app = IntroPage()
     app.mainloop()
+
+
+print("this line was added for GIT test")
